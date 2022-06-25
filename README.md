@@ -1,6 +1,6 @@
 # instagram_flutter
 
-A new Flutter project.
+A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 ## Getting Started
 
